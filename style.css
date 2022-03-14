@@ -8,13 +8,24 @@ h2{
     color: rgb(116, 116, 240);
     border: 2px solid black;
     border-radius: 5rem 0 5rem 0 ;
-    width: fit-content;  
+  max-width: fit-content;  
     margin: auto;
     padding: 2vh 2vw; 
     background-color: rgb(0, 0, 0);
     color: white;
+    text-shadow: 2px 2px 2px rgb(120, 110, 255);
 }
 
 h3 {
     color: rgb(255, 127, 127);
+}
+span {
+    font-size: 18px;
+    color: rebeccapurple;
+    border: 2px solid black;
+    border-radius:0 5rem 0 5rem  ;
+    max-width: fit-content;  
+    margin: auto;
+    padding: 1vh 2vw ; 
+    
 }
