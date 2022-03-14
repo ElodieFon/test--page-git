@@ -1,0 +1,15 @@
+.img-profil
+{
+    width: 15vh;
+}
+
+h2{
+    color: rgb(116, 116, 240);
+    border: 2px solid black;
+    border-radius: 5rem 0 5rem 0 ;
+    width: fit-content;   
+}
+
+h3 {
+    color: rgb(255, 127, 127);
+}
