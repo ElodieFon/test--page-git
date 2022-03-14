@@ -4,6 +4,7 @@
 }
 
 h2{
+    text-transform:uppercase;
     color: rgb(116, 116, 240);
     border: 2px solid black;
     border-radius: 5rem 0 5rem 0 ;
