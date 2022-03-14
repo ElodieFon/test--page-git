@@ -26,7 +26,8 @@ span {
     border-radius:0 5rem 0 5rem  ;
     max-width: fit-content;  
     margin: auto;
-    padding: 1vh 2vw ; 
+    padding: 1vh 2vw ;
+    margin-top: 2px; 
     
 }
 .date {
