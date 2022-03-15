@@ -6,8 +6,8 @@
 h2{
     text-transform:uppercase;
     color: rgb(116, 116, 240);
-    border: 2px solid black;
-    border-radius: 5rem 0 5rem 0 ;
+    border: 2px solid rgb(119, 0, 255);
+    border-radius: 5rem 2rem 5rem 2rem ;
   max-width: fit-content;  
     margin: auto;
     padding: 2vh 2vw; 
@@ -23,11 +23,17 @@ span {
     font-size: 18px;
     color: rebeccapurple;
     border: 2px solid black;
-    border-radius:0 5rem 0 5rem  ;
+    border-radius:2rem 5rem 2rem 5rem  ;
     max-width: fit-content;  
     margin: auto;
     padding: 1vh 2vw ; 
     margin-top: 4px;
 }
 .date {
-    color: cadetblue;}
+    color: rgb(72, 0, 78);
+    background-color: rgb(219, 199, 255);
+    border-radius: 5rem 2rem 5rem 2rem ;
+     max-width: fit-content;  
+    margin: auto;
+    padding:1vh 1vw;
+}
